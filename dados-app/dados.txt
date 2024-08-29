@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Sophia
+-Profissão: QA
+-Cidade: Curitiba
+-O que faz nas horas vaga: Escrevo
+-Feedback sobre o curso Qualidade de Software: It's... ok?
+-Feedback sobre a plataforma de estudo da EBAC: Está ok também...
+
+Obrigado!!!
+
+
